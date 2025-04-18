@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "pixlio",
+  "version": "1.0.0",
+  "description": "a webapp for fetching images and downloading them",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henry78u/pixlio.git"
+  },
+  "keywords": [
+    "image",
+    "download"
+  ],
+  "author": "Henry okonkwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henry78u/pixlio/issues"
+  },
+  "homepage": "https://github.com/henry78u/pixlio#readme"
+}
